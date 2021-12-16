@@ -9,8 +9,8 @@
 I love sharing my knowledge and experience, contribute to open source projects related to mobile development, and
 sharing PoCs & problems as code on this repository.
 
-🤔 I’m currently open for: A new job
-opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1WUv9G0NR2b1Y2XOXxDr3-_7XyaRJUq-N/view?usp=sharing).
+<!-- 🤔 I’m currently open for: A new job
+opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1WUv9G0NR2b1Y2XOXxDr3-_7XyaRJUq-N/view?usp=sharing). -->
 
 # Open Source Libraries
 
