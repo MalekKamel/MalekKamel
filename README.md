@@ -18,6 +18,7 @@ opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1WUv9G0NR2b1Y2X
 
 |       **Repo**                                                                   |                     **Description**                                                                             |
 | ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   [SwiftUINavigator](https://github.com/Open-Bytes/SwiftUINavigator)   |  **SwiftUINavigator** is a lightweight, flexible, and super easy library which makes `SwiftUI` navigation a trivial task.                                 |
 |   [SwiftUIFormValidator](https://github.com/ShabanKamell/SwiftUIFormValidator)   |  A declarative SwiftUI form validation. <br /> Clean, simple, and customizable.                                 |
 |   [ModelMapper-Swift](https://github.com/ShabanKamell/ModelMapper-Swift)         |  An abstraction for mapping models, write a mapper once, use everywhere.                                        |
 |   [RxRequester-Swift](https://github.com/ShabanKamell/RxRequester-Swift)         |  A wrapper for RxSwift abstracts away all those nasty details you don't really care about in every Rx request.  |
