@@ -5,24 +5,23 @@
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/sha.ka.165)
 
 
-Mobile Software Expert. 😄 👋
+Mobile Software Expert. 😄 👋 <br>
 With ~6 years of total experience ⏳
-More than 5 years of iOS software development and 6 years of Android development.
-I have worked with national and international teams around the world.
+<br> More than 5 years of iOS software development and 6 years of Android development.
+<br> I have worked with national and international teams around the world.
 
 Some of My Skills: iOS, Android, Swift, SwiftUI, Combine, Obj-C, Kotlin, Java, Coroutines, Jetpack Compose, Functional Programming, Clean Code, Clean Architecture, Reactive Programming, Declarative UI.
 
 I spend a lot of hours developing open source libraries on GitHub
-🔗 https://github.com/ShabanKamell
-I have contributed 47 public repos. My profile includes 16 Android libraries, 5 iOS libraries, and 26 samples for both Android & iOS.
+<br> I have contributed 47 public repos. My profile includes 16 Android libraries, 5 iOS libraries, and 26 samples for both Android & iOS.
 
 Have a software architecture, design, implementation and problem-solving skills
 
 I love sharing my knowledge and experience, contribute to open source projects related to mobile development, and
 sharing PoCs & problems as code on this repository.
 
-<!-- 🤔 I’m currently open for: A new job
-opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1WUv9G0NR2b1Y2XOXxDr3-_7XyaRJUq-N/view?usp=sharing). -->
+🤔 I’m currently open for: A new job
+opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing).
 
 # Open Source Libraries
 
