@@ -14,6 +14,12 @@ opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1WUv9G0NR2b1Y2X
 
 # Open Source Libraries
 
+### Flutter
+
+| **Repo**                                                  |                     **Description**                                                                             |
+|-----------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Flatter](https://pub.dev/packages/flatter) |  **Flatter** is an extra-light and powerful solution for the hell of nested widgets in Flutter.                                 |
+
 ### Swift & iOS
 
 |       **Repo**                                                                   |                     **Description**                                                                             |
