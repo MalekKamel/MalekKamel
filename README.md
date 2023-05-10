@@ -19,9 +19,9 @@ Have a software architecture, design, implementation and problem-solving skills
 
 I love sharing my knowledge and experience, contribute to open source projects related to mobile development, and
 sharing PoCs & problems as code on this repository.
-
+<!-- 
 🤔 I’m currently open for: A new job
-opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing).
+opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing). -->
 
 # Open Source Libraries
 
