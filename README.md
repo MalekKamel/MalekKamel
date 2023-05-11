@@ -4,24 +4,20 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/shaban-kamel)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/sha.ka.165)
 
+🤔 I’m currently open for new challenge, [SHOW MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing).
 
-Mobile Software Expert. 😄 👋 <br>
-With ~6 years of total experience ⏳
-<br> More than 5 years of iOS software development and 6 years of Android development.
-<br> I have worked with national and international teams around the world.
+“Achieve excellence, don’t just avoid errors “… my best quote.
 
-Some of My Skills: iOS, Android, Swift, SwiftUI, Combine, Obj-C, Kotlin, Java, Coroutines, Jetpack Compose, Functional Programming, Clean Code, Clean Architecture, Reactive Programming, Declarative UI.
+As a mobile engineer, I have over 8 years of experience in native iOS and Android development. With a strong foundation in both platforms. 
 
-I spend a lot of hours developing open source libraries on GitHub
-<br> I have contributed 47 public repos. My profile includes 16 Android libraries, 5 iOS libraries, and 26 samples for both Android & iOS.
+As a GitHub contributor, I am proud to have received over 465 stars for my contributions to the community. Through 53 public repositories, including 16 Android libraries, 5 iOS libraries, 1 Flutter library, I have made significant contributions to the open-source community.
 
-Have a software architecture, design, implementation and problem-solving skills
+My passion for reusability and clean code drives me to write open-source libraries and projects that can benefit the community of developers. Moving forward, my goal is to focus on building SDKs and APIs that can be easily integrated into any project, thereby empowering developers to build better software and achieve their goals more efficiently.
+
+As a public speaker, I have had the opportunity to participate in Google Developer Groups (GDG) and share my knowledge and expertise with fellow developers
 
 I love sharing my knowledge and experience, contribute to open source projects related to mobile development, and
-sharing PoCs & problems as code on this repository.
-<!-- 
-🤔 I’m currently open for: A new job
-opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing). -->
+sharing PoCs & problems as code on this account.
 
 # Open Source Libraries
 
