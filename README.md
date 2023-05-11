@@ -6,7 +6,7 @@
 
 🤔 I’m currently open for new challenge, [SHOW MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing).
 
-“Achieve excellence, don’t just avoid errors “ … “Achieve excellence, don’t just avoid errors “… One of my favorite quotes..
+“Achieve excellence, don’t just avoid errors “ … One of my favorite quotes..
 
 As a mobile engineer, I have over 8 years of experience in native iOS and Android development. With a strong foundation in both platforms. 
 
