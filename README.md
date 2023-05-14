@@ -4,7 +4,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/shaban-kamel)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/sha.ka.165)
 
-🤔 I’m currently open for new challenge, [SHOW MY RESUME](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing).
+🤔 I'm currently interested in exploring new challenges as a mobile software engineer specializing in native iOS and Android development and Flutter, [My Resume](https://drive.google.com/file/d/12OrUUblKxuHg8baFt4xmtcNvEj9qjsUL/view?usp=sharing).
 
 “Achieve excellence, don’t just avoid errors “ … One of my favorite quotes..
 
