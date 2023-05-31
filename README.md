@@ -28,6 +28,15 @@ sharing PoCs & problems as code on this account.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabanKamell&layout=compact&theme=radical&hide_border=false" />
 </a>
 
+- 🎯 **I’m currently focusing
+  on**: [Problem Solving & Coding Challenges](https://github.com/ShabanKamell/CodingChallenges), ⭐️ star the projects if
+  you like it 🤩.
+
+- 💬 **Ask me about**: OOP, Java, Kotlin, Swift, Mobile, RESTful APIs, Database, Architecture, Design Patterns, Testing,
+  People Management.
+
+- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to following me here.
+
 # Open Source Contributions
 
 ### Flutter
@@ -91,15 +100,6 @@ sharing PoCs & problems as code on this account.
 |   [Zad iOS](https://github.com/ShabanKamell/zad_ios)                                                 | Zad Aldoaa is an iOS app contains more than 500 lecture in Islamic region.                                                     |
 |   [Zad Android](https://github.com/ShabanKamell/zad)                                                 | Zad Aldoaa is an Android app contains more than 500 lecture in Islamic region.                                                 |
 |   [RxSwift Search iOS](https://github.com/ShabanKamell/rx_swift_search_example)                      | An example of RxSwift search and UITableView.                                                                                  |
-
-- 🎯 **I’m currently focusing
-  on**: [Problem Solving & Coding Challenges](https://github.com/ShabanKamell/CodingChallenges), ⭐️ star the projects if
-  you like it 🤩.
-
-- 💬 **Ask me about**: OOP, Java, Kotlin, Swift, Mobile, RESTful APIs, Database, Architecture, Design Patterns, Testing,
-  People Management.
-
-- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to following me here.
 
 <!--
 **ShabanKamell/ShabanKamell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
