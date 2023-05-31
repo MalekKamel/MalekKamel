@@ -19,7 +19,16 @@ As a public speaker, I have had the opportunity to participate in Google Develop
 I love sharing my knowledge and experience, contribute to open source projects related to mobile development, and
 sharing PoCs & problems as code on this account.
 
-# Open Source Libraries
+
+<hr/>
+<a href="https://github.com/ShabanKamell/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShabanKamell&show_icons=true&theme=radical&hide_border=false" />
+</a>
+<a href="https://github.com/ShabanKamell/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabanKamell&layout=compact&theme=radical&hide_border=false" />
+</a>
+
+# Open Source Contributions
 
 ### Flutter
 
@@ -91,14 +100,6 @@ sharing PoCs & problems as code on this account.
   People Management.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to following me here.
-
-<hr/>
-<a href="https://github.com/ShabanKamell/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShabanKamell&show_icons=true&theme=radical&hide_border=false" />
-</a>
-<a href="https://github.com/ShabanKamell/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabanKamell&layout=compact&theme=radical&hide_border=false" />
-</a>
 
 <!--
 **ShabanKamell/ShabanKamell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
