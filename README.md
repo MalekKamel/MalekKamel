@@ -22,7 +22,7 @@ sharing PoCs & problems as code on this account.
 
 <hr/>
 <a href="https://github.com/ShabanKamell/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShabanKamell&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShabanKamell&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 <a href="https://github.com/ShabanKamell/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabanKamell&layout=compact&theme=radical&hide_border=false" />
