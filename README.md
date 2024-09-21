@@ -1,4 +1,4 @@
-### Hi there, I'm Shaban Kamel! 👋
+### Hi there, I'm Malek Kamel! 👋
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ShaAhKa)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/shaban-kamel)
@@ -21,7 +21,7 @@ sharing PoCs & problems as code on this account.
 
 
 <hr/>
-<a href="https://github.com/ShabanKamell/">
+<a href="https://github.com/Kamell/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShabanKamell&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 <a href="https://github.com/ShabanKamell/">
