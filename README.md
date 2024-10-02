@@ -1,53 +1,58 @@
 ### Hi there, I'm Malek Kamel! 👋
 
-I'm a passionate Software Engineer with over 9 years of experience specializing in mobile development. I have a strong background in building high-quality, user-friendly applications for both iOS and Android platforms.
-
-I believe in the power of open source and actively contribute to various projects, helping to foster collaboration and innovation within the tech community.
+I'm a seasoned Software Engineer with over 9 years of extensive experience across multiple domains. My expertise spans mobile development, open source contributions, and technical leadership. I'm passionate about crafting high-quality, efficient software solutions and sharing knowledge within the tech community.
 
 ---
 
-## Skills
-- **General:**
-  - **Languages:** Swift, Objective-C, Kotlin, Java, Dart, JavaScript,HTML, CSS
-  - Proficient in Swift and Objective-C for iOS
-  - Proficient in Kotlin and Java for Android
-  - Proficient in Dart for Flutter
-  - Proficient in Ruby for RubyGems development
-  - Experience in JavaScript, HTML, and CSS for web development
+## Key Competencies
 
-- **Mobile DevOps**:
-  - CI/CD, release automation, and scripting
-  - Developer tools to boost team productivity
+- **Versatile Software Engineering:**
+  - Proficient in multiple programming languages and frameworks, including Swift, Objective-C, Kotlin, Java, Dart, Flutter, JavaScript, and more.
+  - Expert in native and cross-platform mobile development, creating robust applications for both iOS and Android.
 
-- **Software Architecture**:
-  - Expertise in MVVM, Reactive Programming, and legacy codebase improvements
-  - Conducting audits and project reviews
+- **Open Source Champion:**
+  - Professional contributor to numerous open source projects, with multiple repositories garnering significant star counts.
+  - Notable projects include Solara, SwiftUINavigator, FormValidator, and Flatter, each addressing crucial development needs.
 
-- **Teaching & Mentoring**:
-  - Public speaker and conducting teaching sessions to help teams grow
+- **Technical Leadership & Management:**
+  - Proven track record in team leadership and project management.
+  - Adept at working with diverse, multicultural teams, fostering inclusive and productive environments.
+
+- **Quality-Driven Development:**
+  - Committed to producing reusable, maintainable code.
+  - Advocate for best practices in software development, focusing on efficiency and optimal solutions.
+
+- **Mentorship & Knowledge Sharing:**
+  - Dedicated mentor, actively contributing to the growth of junior developers.
+  - Engaged in content creation and public speaking to share insights and expertise.
+
+- **Cross-Cultural Collaboration:**
+  - Experienced in working with teams across various cultures, enhancing global perspective in software development.
 
 ## Featured Open Source Projects
-- 🌟 **[Solara](https://github.com/Solara-Kit/Solara):** A Ruby library that simplifies the management of white label apps for iOS, Android, Flutter, and Web.
-- 🌟 **[Navigator](https://github.com/Open-Bytes/SwiftUINavigator):** A powerful approach for handling navigation in SwiftUI.
-- 🌟 **[Validator](https://github.com/MalekKamel/FormValidator):** A declarative form validator for Android.
-- 🌟 **[Flatter](https://pub.dev/packages/flatter):** A solution for managing nested widgets in Flutter.
 
-## Get in Touch
-Feel free to reach out to me if you have any questions or want to collaborate on a project!
+- **[Solara](https://github.com/Solara-Kit/Solara)**: A Ruby library simplifying white label app management across iOS, Android, Flutter, and Web.
+- **[SwiftUINavigator](https://github.com/Open-Bytes/SwiftUINavigator)**: An advanced navigation solution for SwiftUI applications.
+- **[FormValidator](https://github.com/MalekKamel/FormValidator)**: A declarative, clean, and customizable form validation library for Android.
+- **[Flatter](https://pub.dev/packages/flatter)**: An innovative solution for managing nested widgets in Flutter, enhancing code readability and maintainability.
 
-- 💼 LinkedIn: [Malek Kamel](https://www.linkedin.com/in/malek-kamel/)
-- 🐦 Twitter: [@MalekKamell](https://x.com/MalekKamell)
-- 📫 Email: sha.kamel.eng@gmail.com
-<!-- - 🌐 Website: []() -->
+## Professional Highlights
 
-## Fun Facts
-- I have a passion for mentoring junior developers and sharing knowledge.
-- I love public speaking and tech meetups.
-- I’m an avid traveler and enjoy exploring new cultures.
+- Consistently deliver high-quality software solutions across various domains.
+- Strong advocate for code reusability and efficient development practices.
+- Skilled in achieving project targets through innovative and effective approaches.
+- Active contributor to the tech community through mentorship, content creation, and knowledge sharing.
+
+## Connect With Me
+
+- 🌐 **Website:** [malekkamel.github.io](https://malekkamel.github.io/)
+- 💼 **LinkedIn:** [Malek Kamel](https://www.linkedin.com/in/malek-kamel/)
+- 🐦 **Twitter:** [@MalekKamell](https://x.com/MalekKamell)
+- 📫 **Email:** sha.kamel.eng@gmail.com
 
 ---
 
-Looking forward to connecting with fellow developers and contributing to exciting projects!
+I'm always eager to collaborate on innovative projects and share insights with fellow developers. Let's connect and create something impactful together!
 
 <hr/>
 <a href="https://github.com/MalekKamel/">
