@@ -1,47 +1,77 @@
 ### Hi there, I'm Malek Kamel! 👋
 
-I'm a seasoned Software Engineer with over 9 years of extensive experience across multiple domains. My expertise spans mobile development, open source contributions, and technical leadership. I'm passionate about crafting high-quality, efficient software solutions and sharing knowledge within the tech community.
+I'm a seasoned Software Engineer with over 9 years of extensive experience across multiple domains. My expertise spans
+mobile development, open source contributions, and technical leadership. I'm passionate about crafting high-quality,
+efficient software solutions and sharing knowledge within the tech community.
 
 ---
 
-## Key Competencies
+## Proof of Excellence
 
 - **Versatile Software Engineering:**
-  - Proficient in multiple programming languages and frameworks, including Swift, Objective-C, Kotlin, Java, Dart, Flutter, JavaScript, and more.
+  - Proficient in multiple programming languages and frameworks, including Swift, Objective-C, Kotlin, Java, Dart,
+    Flutter, JavaScript, and more.
   - Expert in native and cross-platform mobile development, creating robust applications for both iOS and Android.
+  - Skilled in mobile architecture (SwiftUI, Jetpack Compose, Flutter), state management (Combine, Coroutines, Rx, Bloc,
+    Riverpod), and modular & scalable app design (Clean Architecture, MVVM, MVI).
 
 - **Open Source Champion:**
-  - Professional contributor to numerous open source projects, with multiple repositories garnering significant star counts.
-  - Notable projects include Solara, SwiftUINavigator, FormValidator, and Flatter, each addressing crucial development needs.
+  - Professional contributor to numerous open source projects, with multiple repositories garnering significant star
+    counts.
+  - Notable projects include Solara, SwiftUINavigator, FormValidator, and Flatter, each addressing crucial development
+    needs.
+  - Built Ruby-based framework **Solara** for cross-platform white-label systems, reducing boilerplate code by **80%**.
 
 - **Technical Leadership & Management:**
-  - Proven track record in team leadership and project management.
+  - Proven track record in team leadership and project management, scaling engineering teams and maintaining high
+    feature delivery rates.
   - Adept at working with diverse, multicultural teams, fostering inclusive and productive environments.
+  - Experienced in CI/CD automation (GitHub Actions, Fastlane, Jenkins) and performance optimization (40% data
+    reduction, 35% API latency improvement).
 
 - **Quality-Driven Development:**
   - Committed to producing reusable, maintainable code.
   - Advocate for best practices in software development, focusing on efficiency and optimal solutions.
+  - Reduced UI-related bugs by **60%** via migration to SwiftUI and Jetpack Compose.
 
 - **Mentorship & Knowledge Sharing:**
   - Dedicated mentor, actively contributing to the growth of junior developers.
   - Engaged in content creation and public speaking to share insights and expertise.
+  - Speaker at **Egypt DevFest 2023 Keynote** and **GDG Cairo 2021**.
 
 - **Cross-Cultural Collaboration:**
   - Experienced in working with teams across various cultures, enhancing global perspective in software development.
 
+---
+
 ## Featured Open Source Projects
 
-- **[Solara](https://github.com/Solara-Kit/Solara)**: A Ruby library simplifying white label app management across iOS, Android, Flutter, and Web.
-- **[SwiftUINavigator](https://github.com/Open-Bytes/SwiftUINavigator)**: An advanced navigation solution for SwiftUI applications.
-- **[FormValidator](https://github.com/MalekKamel/FormValidator)**: A declarative, clean, and customizable form validation library for Android.
-- **[Flatter](https://pub.dev/packages/flatter)**: An innovative solution for managing nested widgets in Flutter, enhancing code readability and maintainability.
+- **[Solara](https://github.com/Solara-Kit/Solara)**: A Ruby library simplifying white label app management across iOS,
+  Android, Flutter, and Web.
+- **[SwiftUINavigator](https://github.com/Open-Bytes/SwiftUINavigator)**: An advanced navigation solution for SwiftUI
+  applications.
+- **[FormValidator](https://github.com/MalekKamel/FormValidator)**: A declarative, clean, and customizable form
+  validation library for Android.
+- **[Flatter](https://pub.dev/packages/flatter)**: An innovative solution for managing nested widgets in Flutter,
+  enhancing code readability and maintainability.
+
+---
 
 ## Professional Highlights
+
+- **DigyBite** — *Mobile Software Engineer* | Oct 2022 – Present
+  - Led technical strategy for mobile apps serving 500k+ MAU across 15 countries.
+  - Scaled engineering team from 4 to 12 developers, maintaining **98% feature delivery rate**.
+  - Reduced deployment time from **3 days to 2 hours** by implementing automated white-label systems and CI/CD
+    pipelines.
+  - Drove **25% improvement in app store ratings** (4.2 → 4.9) through quality-focused development practices.
 
 - Consistently deliver high-quality software solutions across various domains.
 - Strong advocate for code reusability and efficient development practices.
 - Skilled in achieving project targets through innovative and effective approaches.
 - Active contributor to the tech community through mentorship, content creation, and knowledge sharing.
+
+---
 
 ## Connect With Me
 
@@ -52,7 +82,8 @@ I'm a seasoned Software Engineer with over 9 years of extensive experience acros
 
 ---
 
-I'm always eager to collaborate on innovative projects and share insights with fellow developers. Let's connect and create something impactful together!
+I'm always eager to collaborate on innovative projects and share insights with fellow developers. Let's connect and
+create something impactful together!
 
 <hr/>
 <a href="https://github.com/MalekKamel/">
@@ -63,6 +94,15 @@ I'm always eager to collaborate on innovative projects and share insights with f
 <a href="https://github.com/MalekKamel/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekKamel&layout=compact&theme=radical&hide_border=false" />
 </a>
+
+---
+
+## Awards & Recognition
+
+- **GitHub Arctic Code Vault Contributor**: Contributed code to several repositories in the 2020 GitHub Archive Program.
+- **Pull Shark x2**: Opened pull requests that have been merged.
+- **Quickdraw**: Gitty up!
+- **Starstruck**: Created a repository that has many stars.
 
 ---
 
