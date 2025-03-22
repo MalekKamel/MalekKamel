@@ -44,6 +44,26 @@ efficient software solutions and sharing knowledge within the tech community.
 
 ---
 
+## Core Skills
+
+- Mobile Architecture (SwiftUI, Jetpack Compose, Flutter)
+- White-Label Systems (60+ app variants, 90% code reuse)
+- Performance Optimization (40% data reduction, 35% API latency improvement)
+- CI/CD Automation (GitHub Actions, Fastlane, Jenkins)
+- Technical Leadership (12+ engineers, Agile/Scrum)
+- State Management (Combine, Coroutines, Rx, Bloc, Riverpod)
+- Modular & Scalable App Design (Clean Architecture, MVVM, MVI)
+- API Integration & Optimization (REST, GraphQL, WebSocket)
+- Local Data Persistence (CoreData, Room, Hive, Sqflite)
+- Testing & QA (Unit Testing, UI Testing, Integration Testing)
+- Debugging & Monitoring (Firebase Crashlytics, Sentry, Mixpanel)
+- Dependency Injection (Swinject, Hilt, GetIt)
+- UI/UX Implementation (Figma, Zeplin, Adaptive UI Design)
+- Open Source Development & Maintenance
+- Agile Methodologies (Scrum, Kanban)
+- Version Control (Git, GitHub, GitLab, Bitbucket)
+- Security Best Practices (Data Encryption, OAuth, SSL Pinning)
+
 ## Featured Open Source Projects
 
 - **[Solara](https://github.com/Solara-Kit/Solara)**: A Ruby library simplifying white label app management across iOS,
