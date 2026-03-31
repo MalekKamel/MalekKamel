@@ -1,96 +1,30 @@
 ### Hi there, I'm Malek Kamel! 👋
 
-I'm a seasoned Software Engineer with over 9 years of extensive experience across multiple domains. My expertise spans
-mobile development, open source contributions, and technical leadership. I'm passionate about crafting high-quality,
-efficient software solutions and sharing knowledge within the tech community.
+I architect and deploy production-grade AI systems that transform how teams work with language models.
 
----
+As an Applied AI Engineer, I specialize in building enterprise-scale LLM applications—RAG architectures, multi-agent systems, and AI platforms that serve real users, not just demos. My approach bridges the gap between research and production, turning Transformers, MoE, and State-Space Models into reliable, scalable solutions.
 
-## Proof of Excellence
+Currently leading AIClaw Platform, an enterprise AI system integrating 73+ AI providers with agent orchestration and multimodal processing. Extended LobeHub's framework for enterprise deployments, achieving 99.9% uptime while reducing infrastructure costs by 60%. Built a RAG knowledge base with pgvector semantic search that retrieves information 89% faster (45min → 5min).
 
-- **Versatile Software Engineering:**
-  - Proficient in multiple programming languages and frameworks, including Swift, Objective-C, Kotlin, Java, Dart,
-    Flutter, JavaScript, and more.
-  - Expert in native and cross-platform mobile development, creating robust applications for both iOS and Android.
-  - Skilled in mobile architecture (SwiftUI, Jetpack Compose, Flutter), state management (Combine, Coroutines, Rx, Bloc,
-    Riverpod), and modular & scalable app design (Clean Architecture, MVVM, MVI).
+Technical expertise:
+• LLM Operations: RAG pipelines, prompt engineering (CoT, ReAct), function calling, LoRA/QLoRA fine-tuning, LLM-as-Judge evaluation
+• AI Frameworks: LangChain, LlamaIndex, Hugging Face Transformers, LangGraph, Model Context Protocol
+• Stack: TypeScript, React, Next.js, PostgreSQL, Docker, Ollama, vLLM, vector databases (Pinecone, pgvector)
 
-- **Open Source Champion:**
-  - Professional contributor to numerous open source projects, with multiple repositories garnering significant star
-    counts.
-  - Notable projects include Solara, SwiftUINavigator, FormValidator, and Flatter, each addressing crucial development
-    needs.
-  - Built Ruby-based framework **Solara** for cross-platform white-label systems, reducing boilerplate code by **80%**.
+I believe in Spec-Driven Development for AI systems—building with type safety, observability, and proper evaluation from day one. This philosophy enabled 85% test coverage, 90% regression detection, and 70% reduction in runtime errors across my projects.
 
-- **Technical Leadership & Management:**
-  - Proven track record in team leadership and project management, scaling engineering teams and maintaining high
-    feature delivery rates.
-  - Adept at working with diverse, multicultural teams, fostering inclusive and productive environments.
-  - Experienced in CI/CD automation (GitHub Actions, Fastlane, Jenkins) and performance optimization (40% data
-    reduction, 35% API latency improvement).
+Key achievements:
+• Deployed AI infrastructure serving 250+ concurrent users with sub-200ms response times
+• Processed 10K+ documents daily through automated RAG pipelines
+• Reduced deployment time from 3 days to 2 hours with GitHub Actions CI/CD
+• Built enterprise RBAC with 5 roles and 15+ granular permissions
+• Implemented AES-256-GCM encryption with automated secret rotation
 
-- **Quality-Driven Development:**
-  - Committed to producing reusable, maintainable code.
-  - Advocate for best practices in software development, focusing on efficiency and optimal solutions.
-  - Reduced UI-related bugs by **60%** via migration to SwiftUI and Jetpack Compose.
+Beyond LLMs, I contribute to open source with projects used by 1M+ users (Solara) and 100+ GitHub stars (SwiftUINavigator). Cross-platform experience spans iOS, Android, Flutter, and Web.
 
-- **Mentorship & Knowledge Sharing:**
-  - Dedicated mentor, actively contributing to the growth of junior developers.
-  - Engaged in content creation and public speaking to share insights and expertise.
-  - Speaker at **Egypt DevFest 2023 Keynote** and **GDG Cairo 2021**.
+I'm interested in opportunities where AI engineering meets production rigor—roles that require building reliable, scalable AI systems with real impact.
 
-- **Cross-Cultural Collaboration:**
-  - Experienced in working with teams across various cultures, enhancing global perspective in software development.
-
----
-
-## Core Skills
-
-- Mobile Architecture (SwiftUI, Jetpack Compose, Flutter)
-- White-Label Systems (60+ app variants, 90% code reuse)
-- Performance Optimization (40% data reduction, 35% API latency improvement)
-- CI/CD Automation (GitHub Actions, Fastlane, Jenkins)
-- Technical Leadership (12+ engineers, Agile/Scrum)
-- State Management (Combine, Coroutines, Rx, Bloc, Riverpod)
-- Modular & Scalable App Design (Clean Architecture, MVVM, MVI)
-- API Integration & Optimization (REST, GraphQL, WebSocket)
-- Local Data Persistence (CoreData, Room, Hive, Sqflite)
-- Testing & QA (Unit Testing, UI Testing, Integration Testing)
-- Debugging & Monitoring (Firebase Crashlytics, Sentry, Mixpanel)
-- Dependency Injection (Swinject, Hilt, GetIt)
-- UI/UX Implementation (Figma, Zeplin, Adaptive UI Design)
-- Open Source Development & Maintenance
-- Agile Methodologies (Scrum, Kanban)
-- Version Control (Git, GitHub, GitLab, Bitbucket)
-- Security Best Practices (Data Encryption, OAuth, SSL Pinning)
-
-## Featured Open Source Projects
-
-- **[Solara](https://github.com/Solara-Kit/Solara)**: A Ruby library simplifying white label app management across iOS,
-  Android, Flutter, and Web.
-- **[SwiftUINavigator](https://github.com/Open-Bytes/SwiftUINavigator)**: An advanced navigation solution for SwiftUI
-  applications.
-- **[FormValidator](https://github.com/MalekKamel/FormValidator)**: A declarative, clean, and customizable form
-  validation library for Android.
-- **[Flatter](https://pub.dev/packages/flatter)**: An innovative solution for managing nested widgets in Flutter,
-  enhancing code readability and maintainability.
-
----
-
-## Professional Highlights
-
-- **DigyBite** — *Mobile Software Engineer* | Oct 2022 – Present
-  - Led technical strategy for mobile apps serving 500k+ MAU across 15 countries.
-  - Scaled engineering team from 4 to 12 developers, maintaining **98% feature delivery rate**.
-  - Reduced deployment time from **3 days to 2 hours** by implementing automated white-label systems and CI/CD
-    pipelines.
-  - Drove **25% improvement in app store ratings** (4.2 → 4.9) through quality-focused development practices.
-
-- Consistently deliver high-quality software solutions across various domains.
-- Strong advocate for code reusability and efficient development practices.
-- Skilled in achieving project targets through innovative and effective approaches.
-- Active contributor to the tech community through mentorship, content creation, and knowledge sharing.
-
+Let's connect if you're working on applied AI, LLM infrastructure, or bringing AI research to production.
 ---
 
 ## Connect With Me
