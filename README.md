@@ -2,7 +2,7 @@
 
 I architect and deploy production-grade AI systems that transform how teams work with language models.
 
-As an Applied AI Engineer, I specialize in building enterprise-scale LLM applications—RAG architectures, multi-agent systems, and AI platforms that serve real users, not just demos. My approach bridges the gap between research and production, turning Transformers, MoE, and State-Space Models into reliable, scalable solutions.
+As an AI Engineer, I specialize in building enterprise-scale LLM applications—RAG architectures, multi-agent systems, and AI platforms that serve real users, not just demos. My approach bridges the gap between research and production, turning Transformers, MoE, and State-Space Models into reliable, scalable solutions.
 
 Currently leading AIClaw Platform, an enterprise AI system integrating 73+ AI providers with agent orchestration and multimodal processing. Extended LobeHub's framework for enterprise deployments, achieving 99.9% uptime while reducing infrastructure costs by 60%. Built a RAG knowledge base with pgvector semantic search that retrieves information 89% faster (45min → 5min).
 
@@ -24,7 +24,7 @@ Beyond LLMs, I contribute to open source with projects used by 1M+ users (Solara
 
 I'm interested in opportunities where AI engineering meets production rigor—roles that require building reliable, scalable AI systems with real impact.
 
-Let's connect if you're working on applied AI, LLM infrastructure, or bringing AI research to production.
+Let's connect if you're working on AI, LLM infrastructure, or bringing AI research to production.
 ---
 
 ## Connect With Me
